@@ -1,0 +1,33 @@
+_repo: On-Picket-Duty-and-Other-Tales_4960
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Barnard, A. M.
+    - Alcott, Louisa M. (Louisa May)
+    - Alcott, L. M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: Cover; Title Page; Copyright Page; Table of Contents; On Picket Duty;
+  The King of Clubs and the Queen of Hearts; The Cross on the Old Church Tower; The
+  Death of John.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: On picket duty -- The king of clubs and the queen of hearts -- The
+  cross on the old church tower -- The death of John.
+title: On Picket Duty, and Other Tales
+url: http://www.gutenberg.org/ebooks/4960
